@@ -1,0 +1,7 @@
+diff --git a/test2 b/test2
+index 6919b3d..affca3b 100644
+--- a/test2
++++ b/test2
+@@ -1 +1,2 @@
+ this is for test adding file
++check
